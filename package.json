@@ -1,0 +1,29 @@
+{
+  "name": "itehtamizhan",
+  "description": "itechtamizhan description",
+  "version": "6.10.0",
+  "main": "app.js",
+  "scripts": {
+	"start": "node app.js"
+  },
+  "engines": {
+    "node": "8.9.1"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "body-parser":"^1.18.2",
+    "cookie-parser":"^1.4.3",
+    "path":"^0.12.7"
+  },
+  "devDependencies": {
+    "request": "^2.81.0",
+    "tape": "^4.7.0"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}
+
